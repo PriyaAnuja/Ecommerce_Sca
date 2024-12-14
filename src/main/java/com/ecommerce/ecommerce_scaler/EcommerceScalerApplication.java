@@ -11,8 +11,6 @@ public class EcommerceScalerApplication {
 
 		SpringApplication.run(EcommerceScalerApplication.class, args);
 
-		Product p = new Product();
-		p.setTitle("MacBook");
 	}
 
 }
